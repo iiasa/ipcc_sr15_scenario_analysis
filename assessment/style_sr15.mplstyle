@@ -1,0 +1,6 @@
+font.family: arial
+font.size: 11
+axes.facecolor: white
+axes.edgecolor: black
+axes.linewidth: 0.75
+ytick.left: True
