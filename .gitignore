@@ -1,0 +1,26 @@
+# data and output directories
+data/*
+assessment/output/*
+
+# Apple file system
+.DS_STORE
+
+# figures
+*.png
+*.eps
+*.pdf
+
+# ipython notebook checkpoints
+*-checkpoint.ipynb
+
+# data files
+*~
+~*
+*csv
+*xlsx
+*.yaml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
