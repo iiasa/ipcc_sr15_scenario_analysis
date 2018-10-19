@@ -41,7 +41,7 @@
      for 1.5°C and 2°C pathway classes in 2010, 2030, 2050, and 2100,
      as estimated by the FAIR model (Smith et al., 2018).
 
- - Notebook `sr1p5_2.3.4_carbon_dioxide_removal`
+ - Notebook `sr15_2.3.4_carbon_dioxide_removal`
    - **Figure 2.9**: Cumulative deployment of carbon dioxide removal (CDR)
      in 1.5°C-consistent pathways
 
