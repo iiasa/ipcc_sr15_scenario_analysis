@@ -10,7 +10,7 @@
  - Notebook `spm_sr15_statements`
    - Summary statistics and indicators
      derived from the scenario assessment
-     highlighted in the *Summary for Policy Makers*
+     highlighted in the **Summary for Policy Makers (SPM)**
 
  - Notebook `spm_sr15_figure_3a_global_emissions_pathways`
    - Data tables of emissions pathways
@@ -30,7 +30,7 @@
      for 2020, 2030, 2050 and 2100.
 
  - Notebook `sr15_2.3.3_global_emissions_statistics`
-   - **Table 2.4** Annual global emissions and absolute annual rates of change
+   - **Table 2.4**: Annual global emissions and absolute annual rates of change
 
  - Notebook `sr15_2.3.3_short-lived_climate_forcers`
    - **Figure 2.7**: Global characteristics of a selection of short-lived
