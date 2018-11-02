@@ -23,7 +23,7 @@ scenarios by climate impact and generate figures, tables, summary statistics,
 and assessment indicators used in the **IPCC Special Report on Global Warming
 of 1.5°C** ([SR15](http://www.ipcc.ch/report/sr15/)).
 
-See [analysis/README](analysis/README.md) for an overview of notebooks
+See [assessment/README](assessment/README.md) for an overview of notebooks
 and the cross-references to figures, tables and assessment in the SR15.
 
 A rendered version of this repository and the notebooks are available at
