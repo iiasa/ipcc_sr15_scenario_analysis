@@ -9,7 +9,7 @@ The data must be saved as an IAMC-style `csv` or `xlsx` file.
 The scenario ensemble used for this assessment is available for download
 at [data.ene.iiasa.ac.at/iamc-1.5c-explorer](https://data.ene.iiasa.ac.at/iamc-1.5c-explorer).
 
-The scenario data is licensed under a derivative of the Creative Commons CC-BY 4.0 License.
+The scenario data is released under a custom license.
 If appropriate reference is made to the data source, it is permitted to use
 the data for scientific research and science communication.
 However, redistribution of substantial portions of the data is restricted.
