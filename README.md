@@ -2,7 +2,7 @@
 
 ## License
 
-Copyright 2018 IIASA
+Copyright 2018-2019 IIASA
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -46,7 +46,7 @@ publication of the final, copy-edited version of the SR1.5
 The scenario ensemble used for this assessment is available for download
 at [data.ene.iiasa.ac.at/iamc-1.5c-explorer](https://data.ene.iiasa.ac.at/iamc-1.5c-explorer).
 
-The scenario data is licensed under a derivative of the Creative Commons CC-BY 4.0 License.
+The scenario data is released under a custom license.
 If appropriate reference is made to the data source, it is permitted to use
 the data for scientific research and science communication.
 However, redistribution of substantial portions of the data is restricted.
