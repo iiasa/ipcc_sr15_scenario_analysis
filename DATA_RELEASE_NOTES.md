@@ -45,7 +45,7 @@ any impact on the assessment in the IPCC SR15.
    for details.
 
  - Incorrect regional data (other than 'World') for scenario submitted
-   by the 'POLES' model as part ofthe 'EMF33' project.
+   by the 'POLES' model as part of the 'EMF33' project.
    See [#12](https://github.com/iiasa/ipcc_sr15_scenario_analysis/issues/12)
    for details.
 
