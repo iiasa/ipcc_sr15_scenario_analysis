@@ -81,3 +81,6 @@
 
  - Notebook `sr15_4.2_sectoral_indicators`
    - **Table 4.1**: Sectoral indicators of the pace of transformation
+
+ - Notebook `sr15_2.SM.4_geophysical_characteristics`
+   - **Table 2.SM.12**: Geophysical characteristics of mitigation pathways
