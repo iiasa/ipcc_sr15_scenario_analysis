@@ -1,0 +1,99 @@
+all_cats:
+- Below 1.5C
+- 1.5C low overshoot
+- 1.5C high overshoot
+- Lower 2C
+- Higher 2C
+- Above 2C
+- no-climate-assessment
+- reference
+all_subcats:
+- Below 1.5C (I)
+- Below 1.5C (II)
+- Lower 1.5C low overshoot
+- Higher 1.5C low overshoot
+- Lower 1.5C high overshoot
+- Higher 1.5C high overshoot
+- Lower 2C
+- Higher 2C
+- Above 2C
+- no-climate-assessment
+- reference
+cats:
+- Below 1.5C
+- 1.5C low overshoot
+- 1.5C high overshoot
+- Lower 2C
+- Higher 2C
+- Above 2C
+cats_15:
+- Below 1.5C
+- 1.5C low overshoot
+- 1.5C high overshoot
+cats_15_no_lo:
+- Below 1.5C
+- 1.5C low overshoot
+cats_2:
+- Lower 2C
+- Higher 2C
+marker:
+- S1
+- S2
+- S5
+- LED
+plotting_args:
+  color: category
+  linewidth: 0.2
+run_control: !!python/object:pyam.run_control.RunControl
+  store:
+    c:
+      marker:
+        LED: white
+        S1: white
+        S2: yellow
+        S5: black
+    color:
+      category:
+        1.5C high overshoot: xkcd:darkish blue
+        1.5C low overshoot: xkcd:bluish
+        Above 2C: darkgrey
+        Below 1.5C: xkcd:baby blue
+        Higher 2C: xkcd:red
+        Lower 2C: xkcd:orange
+      subcategory:
+        Above 2C: darkgrey
+        Below 1.5C (I): xkcd:baby blue
+        Below 1.5C (II): xkcd:baby blue
+        Higher 1.5C high overshoot: xkcd:darkish blue
+        Higher 1.5C low overshoot: xkcd:bluish
+        Higher 2C: xkcd:red
+        Lower 1.5C high overshoot: xkcd:darkish blue
+        Lower 1.5C low overshoot: xkcd:bluish
+        Lower 2C: xkcd:orange
+    edgecolors:
+      marker:
+        LED: black
+        S1: black
+        S2: black
+        S5: black
+    linestyle: {}
+    marker:
+      marker:
+        ? ''
+        : null
+        LED: o
+        S1: s
+        S2: s
+        S5: s
+    region_mapping:
+      default: /Applications/anaconda/lib/python3.6/site-packages/pyam/region_mappings/default_mapping.csv
+subcats:
+- Below 1.5C (I)
+- Below 1.5C (II)
+- Lower 1.5C low overshoot
+- Higher 1.5C low overshoot
+- Lower 1.5C high overshoot
+- Higher 1.5C high overshoot
+- Lower 2C
+- Higher 2C
+- Above 2C
