@@ -29,17 +29,11 @@ and the cross-references to figures, tables and assessment in the SR15.
 A rendered version of this repository and the notebooks are available at
 [data.ene.iiasa.ac.at/sr15_scenario_analysis](https://data.ene.iiasa.ac.at/sr15_scenario_analysis).
 
-## Tricklebacks and corrections
+## Data release notes
 
-Due to changes of focus or groupings of scenarios in some assessments
-during the approval plenary of the IPCC, the SPM and chapters
-are still subject to minor changes and updates (i.e., tricklebacks)
-as well as correction of editorial errors until the final publication
-of the Special Report. For this reason, the outputs of notebooks included in
-this repository may deviate from the pre-release version of the SR1.5.
-
-An updated version of the notebooks will be released following the
-publication of the final, copy-edited version of the SR1.5
+We are using this repository to track data issues identified in the scenario
+ensemble. Please check the [related issues labeled 'iamc15 data issue'](https://github.com/iiasa/ipcc_sr15_scenario_analysis/issues?utf8=✓&q=label%3A%22iamc15+data+issue%22+)
+and the [data release notes](DATA_RELEASE_NOTES.md) in this repository.
 
 ## Scenario ensemble download
 
