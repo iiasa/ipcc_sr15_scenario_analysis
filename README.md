@@ -73,10 +73,11 @@ For a **high-level description of the scenario ensemble**, please refer to:
 
 When using the **scenario ensemble data** for own analysis, please cite:
 > Daniel Huppmann, Elmar Kriegler, Volker Krey, Keywan Riahi, Joeri Rogelj,
+> Katherine Calvin, Florian Humpenoeder, Alexander Popp,
 > Steven K. Rose, John Weyant, et al.,  
 > *IAMC 1.5°C Scenario Explorer and Data hosted by IIASA*.  
-> Integrated Assessment Modeling Consortium & International Institute for Applied Systems Analysis, 2018.  
-> doi: [10.22022/SR15/08-2018.15429](https://doi.org/10.22022/SR15/08-2018.15429) |
+> Integrated Assessment Modeling Consortium & International Institute for Applied Systems Analysis, 2019.  
+> doi: [10.5281/zenodo.33633459](https://doi.org/10.5281/zenodo.3363345) |
 > url: [data.ene.iiasa.ac.at/iamc-1.5c-explorer](https://data.ene.iiasa.ac.at/iamc-1.5c-explorer)
 
 For the **Jupyter notebooks containing figure plotting and analysis scripts**

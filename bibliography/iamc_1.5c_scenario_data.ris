@@ -157,7 +157,7 @@ DO  - 10.22022/SR15/08-2018.15429
 PB  - Integrated Assessment Modeling Consortium & International Institute for Applied Systems Analysis
 PY  - 2018
 TI  - IAMC 1.5°C Scenario Explorer and Data hosted by IIASA
-UR  - https://data.ene.iiasa.ac.at/iamc-sr15-explorer
+UR  - https://data.ene.iiasa.ac.at/iamc-1.5c-explorer
 ID  - 30
 ER  - 
 
@@ -710,3 +710,54 @@ ID  - 29
 ER  - 
 
 
+TY  - GEN
+AU  - Huppmann, Daniel
+AU  - Kriegler, Elmar
+AU  - Krey, Volker
+AU  - Riahi, Keywan
+AU  - Rogelj, Joeri
+AU  - Calvin, Katherine
+AU  - Humpenoeder, Florian
+AU  - Popp, Alexander
+AU  - Rose, Steven K.
+AU  - Weyant, John
+AU  - Bauer, Nico
+AU  - Bertram, Christoph
+AU  - Bosetti, Valentina
+AU  - Doelman, Jonathan
+AU  - Drouet, Laurent
+AU  - Emmerling, Johannes
+AU  - Frank, Stefan
+AU  - Fujimori, Shinichiro
+AU  - Gernaat, David
+AU  - Grubler, Arnulf
+AU  - Guivarch, Celine
+AU  - Haigh, Martin
+AU  - Holz, Christian
+AU  - Iyer, Gokul
+AU  - Kato, Etsushi
+AU  - Keramidas, Kimon
+AU  - Kitous, Alban
+AU  - Leblanc, Florian
+AU  - Liu, Jing-Yu
+AU  - Löffler, Konstantin
+AU  - Luderer, Gunnar
+AU  - Marcucci, Adriana
+AU  - McCollum, David
+AU  - Mima, Silvana
+AU  - Sands, Ronald D.
+AU  - Sano, Fuminori
+AU  - Strefler, Jessica
+AU  - Tsutsui, Junichi
+AU  - Van Vuuren, Detlef
+AU  - Vrontisi, Zoi
+AU  - Wise, Marshall
+AU  - Zhang, Runsen
+DO  - 10.5281/zenodo.3363345
+PB  - Integrated Assessment Modeling Consortium & International Institute for Applied Systems Analysis
+PY  - 2019
+ST  - IAMC 1.5°C Scenario Explorer and Data hosted by IIASA
+TI  - IAMC 1.5°C Scenario Explorer and Data hosted by IIASA
+UR  - https://data.ene.iiasa.ac.at/iamc-1.5c-explorer
+ID  - 839
+ER  - 
