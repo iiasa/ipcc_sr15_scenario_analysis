@@ -103,7 +103,7 @@ an open-source Python package for IAM scenario analysis and visualization
 developed by Matthew Gidden ([@gidden](https://github.com/gidden))
 and Daniel Huppmann ([@danielhuppmann](https://github.com/danielhuppmann/)).
 
-See [software.ene.iiasa.ac.at/pyam/](https://software.ene.iiasa.ac.at/pyam/)
+See [pyam-iamc.readthedocs.io](https://pyam-iamc.readthedocs.io)
 for installation instructions and the full documentation of *pyam*.
 The source code is available at [github.com/IAMconsortium/pyam](https://github.com/IAMconsortium/pyam).
 
