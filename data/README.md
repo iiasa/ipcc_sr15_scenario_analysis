@@ -6,8 +6,10 @@ The data must be saved as an IAMC-style `csv` or `xlsx` file.
 
 ## Scenario ensemble download
 
-The scenario ensemble used for this assessment is available for download
-at [data.ene.iiasa.ac.at/iamc-1.5c-explorer](https://data.ene.iiasa.ac.at/iamc-1.5c-explorer).
+The scenario ensemble used for this assessment 
+and the metadata table of scenario categorisation and quantitative indicators
+are available for download via
+the [IAMC 1.5°C Scenario Explorer](https://data.ene.iiasa.ac.at/iamc-1.5c-explorer).
 
 The scenario data is released under a custom license.
 If appropriate reference is made to the data source, it is permitted to use
